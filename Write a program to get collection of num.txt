@@ -1,0 +1,18 @@
+Write a program to get collection of numbers from user and save it in a list. Remove duplicate numbers from the list.
+
+And, display numbers in below order:
+
+a. Divisible by 3
+b. Divisible by 5
+c. Even or Odd
+
+Input:
+20,21,34,55,20,37,42,34
+
+Output:
+20 is divisible by 5
+21 is divisible by 3
+34 is even number
+55 is divisible by 5
+37 is odd number
+42 is even number
